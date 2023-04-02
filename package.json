@@ -3,6 +3,7 @@
 	"author": "Mark Jason D. Margallo",
 	"description": "The quick brown fox jumps over the lazy dog.",
 	"keywords": [ "practice", "nodejs", "express", "freecodecampisawesome", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
