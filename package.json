@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mark Jason D. Margallo",
 	"description": "The quick brown fox jumps over the lazy dog.",
+	"keywords": [ "practice", "nodejs", "express", "freecodecampisawesome" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
