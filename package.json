@@ -1,7 +1,6 @@
 {
 	"name": "Mark Jason Margallo",
 	"dependencies": {
-		
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
