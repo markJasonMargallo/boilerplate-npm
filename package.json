@@ -1,5 +1,6 @@
 {
-	"name": "mark-jason-margallo",
+	"name": "fcc-learn-npm-package-json",
+	"authot": "Mark Jason D. Margallo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
